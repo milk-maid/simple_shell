@@ -283,8 +283,8 @@ $
 
 ## Authors :black_nib:
 
-* Bello Roqeeb <[milk_maid](https://github.com/milk_maid)>
-* Oladimeji Idrees <[Idreex ](https://github.com/Idreex)>
+* Bello Roqeeb [milk_maid](https://github.com/milk_maid)
+* Oladimeji Idrees [Idreex ](https://github.com/Idreex)
 
 ## License :lock:
 
